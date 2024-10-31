@@ -1,0 +1,96 @@
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.exe
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.deps.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.runtimeconfig.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.PokeAPIBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.PokeAPIBackend.props
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokeAPIBackend.props
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokeAPIBackend.props
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\scopedcss\bundle\PokeAPIBackend.styles.css
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIB.C090A335.Up2Date
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\refint\PokeAPIBackend.dll
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\ref\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.exe
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.deps.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.runtimeconfig.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.PokeAPIBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\scopedcss\bundle\PokeAPIBackend.styles.css
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIB.C090A335.Up2Date
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\refint\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\backup poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\ref\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.exe
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.deps.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.runtimeconfig.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.PokeAPIBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokeAPIBackend.props
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\scopedcss\bundle\PokeAPIBackend.styles.css
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIB.C090A335.Up2Date
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\refint\PokeAPIBackend.dll
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.pdb
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\PokeAPIBackend.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\backup-poke\PokeAPIBackend\PokeAPIBackend\obj\Debug\net8.0\ref\PokeAPIBackend.dll
